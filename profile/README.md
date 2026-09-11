@@ -111,4 +111,4 @@ MIT License - Open Source, Free to use
 ## Contact
 For support, collaboration or questions:
 - GitHub: https://github.com/thesanatanai
-- Project owner: [@greatsanatanai](https://github.com/greatsanatnai) (maintained by [@shivamsharma999](https://github.com/shivamsharma999))
+- Project owner: [@greatsanatanai](https://github.com/greatsanatanai) (maintained by [@shivamsharma999](https://github.com/shivamsharma999))
